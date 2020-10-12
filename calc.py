@@ -1,6 +1,6 @@
 print("Enter first number")
 a = float(input())
-print("Enter second number")
+print("Enter second numberrr")
 b = float(input())
 print("What operation")
 sign = input()
